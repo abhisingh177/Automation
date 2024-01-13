@@ -4,7 +4,11 @@ public class test{
         System.out.println("hello2");
 
     }
-    public static void name(){
+    public static void name2(){
+         System.out.println("hello3");
+    }
+
+    public static void name2(){
          System.out.println("hello3");
     }
 }
